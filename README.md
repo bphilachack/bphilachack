@@ -10,10 +10,10 @@ My main goal is to graduate with the bachelor's degree, emphasis on Cyber Securi
 > Languages: 
   >> Java
   >> C++
-  >> Currently learning:
-  >>> Kotlin
-  >>> CSS
-  >>> HTML
-  >>> SQL
+  > Currently learning:
+  >> Kotlin
+  >> CSS
+  >> HTML
+  >> SQL
 
 > :briefcase: Currently working at Target.
