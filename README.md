@@ -1,16 +1,19 @@
-### Hi there 👋
+### Howdy! The name's Brandon Philachack 👋
 
-<!--
-**bphilachack/bphilachack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Computer Science student at the University of Texas at Dallas.
 
-Here are some ideas to get you started:
+My main goal is to graduate with the bachelor's degree, emphasis on Cyber Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🔭 I’m currently working on getting an intership or into a program.
+  >> Completed CodePath's CyberSecurity Course with an honors' certificate.
+
+> Languages: 
+  >> Java
+  >> C++
+  >> Currently learning:
+  >>> Kotlin
+  >>> CSS
+  >>> HTML
+  >>> SQL
+
+> :briefcase: Currently working at Target.
