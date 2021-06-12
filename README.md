@@ -1,4 +1,4 @@
-### Howdy! The name's Brandon Philachack 👋
+### Howdy! The name's Brandon Philachack :star2:
 
 I am a Senior Computer Science student at the University of Texas at Dallas.
 
