@@ -1,4 +1,4 @@
-### :star2: Howdy! The name's Brandon Philachack :star2:
+### :star2: Hello there! My name is Brandon Philachack :star2:
 
 <img src="inosuke.gif" alt="Inosuke">
 
