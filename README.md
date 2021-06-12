@@ -8,13 +8,9 @@ My goal is to graduate with the bachelor's degree, emphasis on Cyber Security.
   > Completed CodePath's CyberSecurity Course with an honors' certificate.
 
 ■ Languages: 
-  □ Java
-  □ C++
+  > Java and C++
 
 ■ Currently learning:
-  □ Kotlin
-  □ CSS
-  □ HTML
-  □ SQL
+  > Kotlin, CSS, HTML and SQL
 
 ■ :briefcase: Currently working at Target.
