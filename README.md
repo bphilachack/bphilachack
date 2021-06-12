@@ -13,4 +13,5 @@ I am a Senior Computer Science student at the University of Texas at Dallas.
 ■ :book: Currently learning:
   > Kotlin, CSS, HTML and SQL
 
-■ :briefcase: Currently working at Target.
+■ :briefcase: Currently working at :
+  > Target.
