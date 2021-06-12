@@ -1,5 +1,7 @@
 ### :star2: Howdy! The name's Brandon Philachack :star2:
 
+<img src="inosuke.gif" alt="Inosuke">
+
 I am a Senior Computer Science student at the University of Texas at Dallas.
 
 :mortar_board: My goal is to graduate with the bachelor's degree, emphasis on Cyber Security.
